@@ -1,0 +1,3 @@
+class CAT-FACT
+
+end
