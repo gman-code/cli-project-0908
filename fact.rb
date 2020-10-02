@@ -15,6 +15,6 @@ class Fact
         @@all
     end
     def self.find_by_fact(fact)
-        self.all.select{|c| c.fact== fact}
+        self.all.select{|c| c.fact == fact}
     end
 end
