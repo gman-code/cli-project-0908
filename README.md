@@ -1,11 +1,12 @@
+WELCOME TO CATS FACTS
+
+DONE BY         gman-code / cli project-0908
+repository https://github.com/gman-code/cli-project-0908.git
 
 
-50 Fascinating Facts About Cats
-BY KIRSTIN FAWCETT
-AUGUST 8, 2019
-(UPDATED: OCTOBER 29, 2019)
-Seregraff/iStock via Getty Images
-SEREGRAFF/ISTOCK VIA GETTY IMAGES
+
+Facts About Cats
+
 
 
 From the time you wake up with a fluffy pile purring on your face to the time you go to bed with that fluffy pile purring on your face again, there are a lot of reasons to love our cats. If you want to celebrate Felis catus in all its furry glory, try sharing some of these 50 bits of cat trivia.
